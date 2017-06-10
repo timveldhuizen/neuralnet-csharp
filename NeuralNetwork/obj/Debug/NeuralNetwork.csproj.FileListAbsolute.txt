@@ -1,0 +1,5 @@
+C:\Proj\Sandbox\NN\NeuralNetworking\NeuralNetwork\bin\Debug\NeuralNetwork.dll
+C:\Proj\Sandbox\NN\NeuralNetworking\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Proj\Sandbox\NN\NeuralNetworking\NeuralNetwork\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+C:\Proj\Sandbox\NN\NeuralNetworking\NeuralNetwork\obj\Debug\NeuralNetwork.dll
+C:\Proj\Sandbox\NN\NeuralNetworking\NeuralNetwork\obj\Debug\NeuralNetwork.pdb

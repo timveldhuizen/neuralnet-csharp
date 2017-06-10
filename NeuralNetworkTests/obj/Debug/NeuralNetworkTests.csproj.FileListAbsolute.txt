@@ -1,0 +1,7 @@
+C:\Proj\Sandbox\NN\NeuralNetworking\NeuralNetworkTests\bin\Debug\NeuralNetworkTests.dll
+C:\Proj\Sandbox\NN\NeuralNetworking\NeuralNetworkTests\bin\Debug\NeuralNetworkTests.pdb
+C:\Proj\Sandbox\NN\NeuralNetworking\NeuralNetworkTests\bin\Debug\NeuralNetwork.dll
+C:\Proj\Sandbox\NN\NeuralNetworking\NeuralNetworkTests\bin\Debug\NeuralNetwork.pdb
+C:\Proj\Sandbox\NN\NeuralNetworking\NeuralNetworkTests\obj\Debug\NeuralNetworkTests.csprojResolveAssemblyReference.cache
+C:\Proj\Sandbox\NN\NeuralNetworking\NeuralNetworkTests\obj\Debug\NeuralNetworkTests.dll
+C:\Proj\Sandbox\NN\NeuralNetworking\NeuralNetworkTests\obj\Debug\NeuralNetworkTests.pdb
